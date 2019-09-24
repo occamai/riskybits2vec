@@ -1,6 +1,6 @@
 # Introduction
 
-RiskyBits2Vec is an ongoing research project that tries to capture many important aspects of modern threat prevention at the level of software:
+RiskyBits2Vec is an ongoing research project that tries to capture many important aspects of modern threat prevention at the level of static software binary analysis:
 * Applying neural networks to the problem of code similarity at the binary level
 * Leverage code similarity models to detect malicious code or code vulnerabilities
 * Using machine learning to assign semanticly rich but compact fingerprints for code similarity search
