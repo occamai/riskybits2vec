@@ -8,12 +8,12 @@ RiskyBits2Vec is an ongoing research project that tries to capture many importan
 # TODO
 
 * Papers
-* * Create a separate "papers" folder in this repo
-* * Research papers that are relevant to this work and add to the folder
-* * A good start is the references section to paper by Heng/Dawn Song
+  * Create a separate "papers" folder in this repo
+  * Research papers that are relevant to this work and add to the folder
+  * A good start is the references section to paper by Heng/Dawn Song
 * Databases
-* * Download relevant databases for this work
-* * For example, download the databases described in the paper by Heng/Dawn Song
-* * If they are too large, we need to use a Google/AWS Bucket
+  * Download relevant databases for this work
+  * For example, download the databases described in the paper by Heng/Dawn Song
+  * If they are too large, we need to use a Google/AWS Bucket
 * Software to-Graph Tools
-* * What kind of tools are available that can convert software to graphs ( ie, ACFLs ) ?
+* What kind of tools are available that can convert software to graphs ( ie, ACFLs ) ?
