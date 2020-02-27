@@ -7,8 +7,13 @@ RiskyBits2Vec is an ongoing research project that tries to capture many importan
 
 # TODO
 
-* Research all the relevant papers and create a folder in this repo
-* Revisit the previous work - reproducing Heng/Song's work on code similarity via ACGS Graphs - and fix the TSNE if its possible
-* Investigate other graph2vec approaches
-* Investigate other contrastive loss architectures such as triplet loss
-* Find and test against larger malware/vulnerability databases
+* Papers
+* * Create a separate "papers" folder in this repo
+* * Research papers that are relevant to this work and add to the folder
+* * A good start is the references section to paper by Heng/Dawn Song
+* Databases
+* * Download relevant databases for this work
+* * For example, download the databases described in the paper by Heng/Dawn Song
+* * If they are too large, we need to use a Google/AWS Bucket
+* Software to-Graph Tools
+* * What kind of tools are available that can convert software to graphs ( ie, ACFLs ) ?
